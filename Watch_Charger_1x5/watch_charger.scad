@@ -1,4 +1,6 @@
 include <gridfinity-rebuilt-openscad/gridfinity-rebuilt-utility.scad>
+// URL: https://www.printables.com/model/352416
+// Repo: https://github.com/ruralguru/gridfinity_chargers
 $fn = 100;
 //==================================================
 // Gridfinity User Input Dimensions
