@@ -8,4 +8,4 @@ Otherwise modify the include statement in the openscad files.
 NOTES: fabricated on CR-30. as such overhangs are a different beast for me, please advise when created
 
 
-Currently includes: Watch charger 1x5 with bins as supported.
+Currently includes: Watch charger 1x5 with bins, release: https://www.printables.com/model/352416-gridfinity-watch-charger-storage-1x5
