@@ -1,5 +1,8 @@
 include <gridfinity-rebuilt-openscad/gridfinity-rebuilt-utility.scad>
 include <honeycomb_wall.scad>
+//honeycomb wall dependency: BOSL2
+// URL: https://www.printables.com/model/353380
+// Repo: https://github.com/ruralguru/gridfinity_chargers
 //==================================================
 // Gridfinity User Input Dimensions
 //==================================================
