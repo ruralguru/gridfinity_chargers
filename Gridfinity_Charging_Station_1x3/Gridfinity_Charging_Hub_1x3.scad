@@ -1,8 +1,12 @@
 include <gridfinity-rebuilt-openscad/gridfinity-rebuilt-utility.scad>
 $fn = 100;
 
-// Fits desktop charging stations. confirmed to work with: Baseus PowerCombo 65W (ASIN: B09HBJ1Z96) and  Rolvse GaN 65W (ASIN: B09JZG32SW)
+// Fits desktop charging stations. confirmed to work with: Baseus PowerCombo 65W (ASIN: B09HBJ1Z96) and Rolvse GaN 65W (ASIN: B09JZG32SW)
 // use # at beginning of module or line to provide debug visual, even of cutouts.
+
+// URL: https://www.printables.com/model/354321
+// Repo: https://github.com/ruralguru/gridfinity_chargers
+1
 //==================================================
 // Gridfinity User Input Dimensions
 //==================================================
